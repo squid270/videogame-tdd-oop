@@ -1,0 +1,26 @@
+{
+  "name": "games-tdd-test",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squid270/videogame-tdd-oop.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squid270/videogame-tdd-oop/issues"
+  },
+  "homepage": "https://github.com/squid270/videogame-tdd-oop#readme",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
